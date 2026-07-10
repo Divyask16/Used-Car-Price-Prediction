@@ -1,5 +1,5 @@
 # Used-Car-Price-Prediction
-🚗 Used Car Price Prediction using Machine Learning
+ Used Car Price Prediction using Machine Learning
 📌 Project Overview
 
 This project predicts the selling price of used cars using a Linear Regression model. The model analyzes various vehicle attributes to estimate the expected market price of a used car.
@@ -40,12 +40,12 @@ Train-Test Split
 Model Training using Linear Regression
 Price Prediction
 Model Evaluation
-🤖 Machine Learning Algorithm
+ Machine Learning Algorithm
 Linear Regression
 📈 Model Evaluation
 R² Score
 Mean Squared Error (MSE)
-🚀 How to Run
+ How to Run
 Clone this repository.
 Install the required Python libraries.
 Open the Jupyter Notebook.
