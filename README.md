@@ -1,5 +1,4 @@
 # Used-Car-Price-Prediction
-Machine Learning project for predicting used car prices using Linear Regression and Python.
 🚗 Used Car Price Prediction using Machine Learning
 📌 Project Overview
 
