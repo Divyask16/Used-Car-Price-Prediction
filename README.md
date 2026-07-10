@@ -59,8 +59,9 @@ Compare Linear Regression with Random Forest and XGBoost.
 Perform feature engineering to improve prediction accuracy.
 Optimize the model using hyperparameter tuning.
 Deploy the model using Flask or Streamlit.
-👩‍💻 Author
 
+ 
+ Author
 Divya S
 
 Aspiring Data Analyst | Machine Learning Enthusiast
