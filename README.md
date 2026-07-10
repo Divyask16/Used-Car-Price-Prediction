@@ -50,6 +50,8 @@ Clone this repository.
 Install the required Python libraries.
 Open the Jupyter Notebook.
 Run all notebook cells.
+
+
 🎯 Results
 
 The Linear Regression model predicts used car prices based on vehicle features and evaluates its performance using R² Score and Mean Squared Error.
